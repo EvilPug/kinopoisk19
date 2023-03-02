@@ -48,16 +48,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/EvilPug/kinopoisk19/master/screenshots/posle2.jpg" width="300"><p>
 
-## Награды
 
-**Ну и конечно же вся работа была проделана не зря!**
-
-**Яндекс Станция Макс**
-<p align="center"><img src="https://raw.githubusercontent.com/EvilPug/kinopoisk19/master/screenshots/win1.png" width="500"><p>
-
-**Подписки**
-<p align="center"><img src="https://raw.githubusercontent.com/EvilPug/kinopoisk19/master/screenshots/win2.jpeg" width="500"><p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/EvilPug/kinopoisk19/master/screenshots/win3.jpeg" width="500"><p>
+### Разработчики были уведомлены о лазейке
 
 
